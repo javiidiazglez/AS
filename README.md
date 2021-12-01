@@ -5,4 +5,4 @@ Repositorio para las prácticas de la asignatura de Administración de Sistemas 
 - Alumno: José Javier Díaz González
 
 ### Listado de prácticas:
-- ### [Práctica 1](https://github.com/alu0101128894/AS/blob/main/Pr%C3%A1ctica%201.%20Script%20para%20a%C3%B1adir%20usuarios%20al%20sistema/adduser.sh). Script para añadir usuarios al sistema
+- #### [Práctica 1](https://github.com/alu0101128894/AS/blob/main/Pr%C3%A1ctica%201.%20Script%20para%20a%C3%B1adir%20usuarios%20al%20sistema/adduser.sh). Script para añadir usuarios al sistema
